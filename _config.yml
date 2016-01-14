@@ -1,7 +1,7 @@
 name: fox
 favicon: null
-layout_spectrum: 0.1371436109766364
-typography_spectrum: 0.8839366973843426
+layout_spectrum: 1
+typography_spectrum: 0.33969
 title: Fox
 cta:
   domain: null
